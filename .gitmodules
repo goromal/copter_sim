@@ -1,0 +1,15 @@
+[submodule "catkin_simple"]
+	path = catkin_simple
+	url = https://github.com/catkin/catkin_simple.git
+[submodule "magicc_sim"]
+	path = magicc_sim
+	url = https://github.com/byu-magicc/magicc_sim.git
+[submodule "roscopter"]
+	path = roscopter
+	url = https://github.com/byu-magicc/roscopter.git
+[submodule "rosflight"]
+	path = rosflight
+	url = https://github.com/rosflight/rosflight.git
+[submodule "rosflight_plugins"]
+	path = rosflight_plugins
+	url = https://github.com/byu-magicc/rosflight_plugins.git
